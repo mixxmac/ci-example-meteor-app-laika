@@ -1,5 +1,6 @@
 travis-ci-laika
 =========================
+[![Build Status](https://travis-ci.org/mixxmac/ci-example-meteor-app-laika.svg)](https://travis-ci.org/mixxmac/ci-example-meteor-app-laika)
 
 ### [Travis CI support for Meteor with Laika](http://meteorhacks.com/continuos-integration-for-meteor-apps.html)
 
